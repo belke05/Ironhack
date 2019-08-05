@@ -1,0 +1,14 @@
+.center {
+  margin: 0 auto;
+  width: 900px;
+  display: block;
+  padding: 20px 0px;
+}
+
+audio {
+  display: block;
+}
+
+h1 {
+  text-align: center;
+}

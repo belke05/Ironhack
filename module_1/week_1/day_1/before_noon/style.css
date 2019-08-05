@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial;
+}
+
+.cohort {
+  padding: 10px;
+  border: 1px solid;
+  border-radius: 0.3rem;
+  margin: 10px 0 20px;
+}
+
+.superheroes {
+  list-style-type: none;
+}
+
+.superheroes.weak {
+  color: green;
+}
+
+.superheroes.strong {
+  color: darkred;
+}
+
+.superheroes.average {
+  color: darkgoldenrod;
+}
